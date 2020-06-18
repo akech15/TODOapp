@@ -1,0 +1,5 @@
+<resources>
+    <string name="take_a_note_text">Take a note ...</string>
+    <string name="app_name">TODO</string>
+    <string name="edit_date">0</string>
+</resources>
